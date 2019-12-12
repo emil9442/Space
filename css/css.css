@@ -1,0 +1,71 @@
+body {
+ background-image: url("https://i.imgur.com/Fo0nuaV.jpg");
+ background-size: 100%;
+ background-repeat: no-repeat;
+ background-color: black;
+
+}
+
+
+.link1 {
+font-family: 'Arial', cursive;
+color: rgb(209, 209, 209);
+font-size: 30px;
+text-decoration: none;
+
+
+margin: 0% 0% 0% 45%;
+
+
+
+border: 2px solid black;
+border-radius: 12px;
+background-color: black;
+
+}
+
+.link2 {
+
+font-family: 'Arial', cursive;
+color: rgb(209, 209, 209);
+font-size: 30px;
+text-decoration: none;
+
+
+margin: 0% 0% 0% 42%;
+
+border: 2px solid black;
+border-radius: 12px;
+background-color: black;
+
+}
+
+
+
+.link4
+{
+font-family: 'Saira Extra Condensed', sans-serif;
+color: white;
+font-size: 150%;
+text-decoration: none;
+padding-left: 77%;
+}
+
+
+p.text1 {
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+color: white;
+text-align: center
+
+}
+
+
+
+p.a5
+{
+font-family: 'Saira Extra Condensed', sans-serif;
+color: white;
+text-align: center
+}
+
